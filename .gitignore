@@ -1,0 +1,4 @@
+*.pbix~
+*.log
+Thumbs.db
+__MACOSX/
